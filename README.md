@@ -1,4 +1,4 @@
-# Genetic Algorithm Examples
+# Genetic Algorithm 
 
 This project shows how to use genetic algorithms with the DEAP library.
 It includes a Vehicle Routing Problem solver and a small maze path finder.
